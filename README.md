@@ -29,7 +29,7 @@ Some of my past internships 🖇 ...
   - Mpathy Software - using NLP to make a formalized electronic health record system to allow for simpler patient documentation
   - Twitter for Good - using data visualization to organize homeless census data based on demographics in the SF Tenderloin
 
-I’m currently learning 🌱 : image segmentation, eQTLs, differential gene analysis, mathematics behind backpropagation
+I’m currently learning 🌱 : image segmentation, eQTLs, differential gene analysis, linear algebra + multivariable calculus
 
 ----------
 
