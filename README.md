@@ -30,7 +30,9 @@ Some of my past internships 🖇 ...
   - Twitter for Good - using data visualization to organize homeless census data based on demographics in the SF Tenderloin
 
 I’m currently learning 🌱 : image segmentation, eQTLs, differential gene analysis, linear algebra + multivariable calculus
+
 Programming Languages 🔐: Python, C++, R, HTML/CSS, Java, Solidity
+
 Specialized Fields 🎓: AI/ML, bioinformatics, mathematics, physics, cloud computing, competitive coding
 
 ----------
