@@ -1,6 +1,6 @@
 ### Hi there, I'm Karthik Mittal 👋 
 
-I'm an emerging innovator with a mission to disrupt the biomedical industry using cloud, AI, and ML technologies and build products and services through my company, Neuralyte. My goal is to influence social change and develop accessible solutions to pressing issues the world faces using emerging technologies.
+I'm an emerging innovator with a mission to disrupt the biomedical industry using cloud, AI, and ML technologies and build products and services through my company, Neuralyte. My goal is to influence social change and develop accessible solutions to pressing issues the world faces using emerging technologies. My current interests lie in machine learning and bioinformatics, but I'm adaptable!
 
 -------- 
 
