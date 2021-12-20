@@ -33,5 +33,5 @@ I’m currently learning 🌱 : image segmentation, eQTLs, differential gene ana
 ----------
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthikm15&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikm15)](https://github.com/karthikm15/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikm15)](https://github.com/anuraghazra/github-readme-stats)
 
