@@ -30,10 +30,12 @@ Some of my past internships 🖇 ...
   - Twitter for Good - using data visualization to organize homeless census data based on demographics in the SF Tenderloin
 
 I’m currently learning 🌱 : image segmentation, eQTLs, differential gene analysis, linear algebra + multivariable calculus
+Programming Languages 🔐: Python, C++, R, HTML/CSS, Java, Solidity
+Specialized Fields 🎓: AI/ML, bioinformatics, mathematics, physics, cloud computing, competitive coding
 
 ----------
 
-<p>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthikm15&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikm15&exclude_repo=Moneta-Website&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
