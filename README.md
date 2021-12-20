@@ -20,7 +20,7 @@ I’m currently working on 🔭 ...
   - Finding sets of similar genes 🧬 between anatomically close cancers through clustering algorithms
 
 Some of my past projects 📝 ...
-  - 🧫 Identification of Biological Pathways Causative for Breast Cancer Through Unsupervised Machine Learning - [paper](https://horizonreport23.s3.amazonaws.com/report.html), [video](https://www.youtube.com/watch?v=TbZjcXZJOA4&t=3s)
+  - 🧫 Identification of Biological Pathways Causative for Breast Cancer Through Unsupervised Machine Learning - [paper](https://horizonreport23.s3.amazonaws.com/report.html), [video](https://www.youtube.com/watch?v=TbZjcXZJOA4&t=3s) 
   - ✖️ Determining Smallest Path Size of Multiplication Transducers Without a Restricted Digit Set - [paper](http://multiplication-transducers.s3-website-us-west-1.amazonaws.com/), [article](https://studentsxstudents.com/building-your-own-multiplication-transducer-1a621e79c69d)
   - 🏝 Discovering CpG Islands and Promoter Regions Using Hidden Markev Models and The Viterbi Algorithm - [article](https://medium.com/analytics-vidhya/using-hidden-markov-models-to-infer-locations-of-cpg-islands-and-promoter-regions-480db92b6472)
 
