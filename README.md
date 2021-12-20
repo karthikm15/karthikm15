@@ -13,8 +13,8 @@ I'm an emerging innovator with a mission to disrupt the biomedical industry usin
   - Have a writing publication on Medium (15k+ page views, 400+ writers, organized TEDx) ✍🏼
 
 💪🏼 Some of my past internships ...
-  - Ocean Genomics - a comp bio startup wishing to modernize online RNA-seq for more cost-efficient analysis on sequenced RNA and drug response prediction
-  - Mpathy Software - using natural language processing to make a formalized electronic health record system to allow for simpler patient documentation
+  - Ocean Genomics - a comp bio startup modernizing online RNA-seq for more cost-efficient analysis on personalized medicine prediction
+  - Mpathy Software - using NLP to make a formalized electronic health record system to allow for simpler patient documentation
 
 🌱 I’m currently learning ...
   - 
