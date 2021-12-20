@@ -1,5 +1,14 @@
 ### Hi there, I'm Karthik Mittal 👋 
 
+href="https://github.com/karthikmittal15" target="_blank"><img alt="Github" 
+src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
+href="https://twitter.com/KarthikMittal3" target="_blank"><img alt="Twitter" 
+src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" /></a> <a 
+href="https://www.linkedin.com/in/karthikmittal/" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
+href="https://karthikmittal.medium.com/" target="_blank"><img alt="Medium" 
+src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
+
 I'm an emerging innovator with a mission to disrupt the biomedical industry using cloud, AI, and ML technologies and build products and services through my company, Neuralyte. My goal is to influence social change and develop accessible solutions to pressing issues the world faces using emerging technologies. My current interests lie in machine learning and bioinformatics.
 
 -------- 
