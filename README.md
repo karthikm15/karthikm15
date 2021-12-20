@@ -27,6 +27,7 @@ Some of my past projects 📝 ...
 Some of my past internships 🖇 ...
   - Ocean Genomics - a comp bio startup modernizing online RNA-seq for more cost-efficient analysis on personalized prediction
   - Mpathy Software - using NLP to make a formalized electronic health record system to allow for simpler patient documentation
+  - Twitter for Good - using data visualization to organize homeless census data based on demographics in the SF Tenderloin
 
 I’m currently learning 🌱 : image segmentation, eQTLs, differential gene analysis, mathematics behind backpropagation
 
