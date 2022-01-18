@@ -9,7 +9,7 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
 href="https://karthikmittal.medium.com/" target="_blank"><img alt="Medium" 
 src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
 </p> 
-
+ 
 I'm an innovator with a mission to disrupt the biomedical industry using cloud, AI, and ML technologies and build products and services through my company, Neuralyte. My goal is to influence social change and develop accessible solutions to pressing issues the world faces using emerging technologies. My current interests lie in machine learning and bioinformatics.
 
 -------- 
