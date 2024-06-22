@@ -15,7 +15,7 @@ I'm an undergraduate student at CMU, majoring in computer science and minoring i
 
 Some of my projects ...
   - Using ML to detect genetic factors that can relate to leukemic stem cell proliferation
-  - Building LLMs for video, audio, and textual analysis to improve public speaking (Top 5 + Best Use of AI in TartanHacks)
+  - Building [LLMs](https://github.com/aaravbajaj012/TartanHacks2024-Saka/tree/main/user-feedback) for video, audio, and textual analysis to improve public speaking (Top 5 + Best Use of AI in TartanHacks) - 
   - Building a transformer from scratch using open-source Reddit data. Modeled off GPT-2. Finetuned on QA and summarization. 
 
 ----------
